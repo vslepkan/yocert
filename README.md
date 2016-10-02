@@ -14,3 +14,20 @@
 - Добавление / редактирование курса
 - Список сертификатов по конкретному курсу
 - Добавление / редактирование сертификата студента
+
+## Мокапы страниц
+
+![Image]
+(https://github.com/vslepkan/yocert/blob/master/roadmap/courses_list.png)
+
+![Image]
+(https://github.com/vslepkan/yocert/blob/master/roadmap/add_edit_course.png)
+
+![Image]
+(https://github.com/vslepkan/yocert/blob/master/roadmap/certs_list.png)
+
+![Image]
+(https://github.com/vslepkan/yocert/blob/master/roadmap/add_edit_cert.png)
+
+![Image]
+(https://github.com/vslepkan/yocert/blob/master/roadmap/user_view.png)
